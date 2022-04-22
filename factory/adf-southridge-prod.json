@@ -1,0 +1,9 @@
+{
+	"name": "adf-southridge-prod",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49de3c47-c1ae-45ea-a92b-6562016bb7a0",
+		"tenantId": "27d82a95-f26e-4d3a-9f63-4de4e14a83b1"
+	}
+}
