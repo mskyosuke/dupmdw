@@ -1,0 +1,9 @@
+{
+	"name": "adf-demo-kohta0422",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "82fa5751-38f8-4f61-8bcb-dd2e438339ad",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
